@@ -1,0 +1,34 @@
+.catpos {
+    background: #05e3be;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .publicidad {
+    background: #c2b7f2;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    
+    .pos {
+         font-weight: bold; padding: 15px; border-left:20px solid #05e3be;
+    }
+    .publicidad {
+         font-weight: bold; padding: 15px; border-left:20px solid #c2b7f2;
+    }
+    
